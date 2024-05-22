@@ -1,3 +1,6 @@
+/**
+ * The class which creates and handles the basic information of each course, storing a name and percentage grade
+ */
 public class Course {
     
     private double grade;
