@@ -4,8 +4,14 @@ Program for friends & portfolio*/
 
 import java.util.Scanner;
 
+/**
+ * The Class containing the basic user-interactions, asking which methods they'd like to run
+ */
 public class GradeTracker
 {
+    /**
+     * Main, begins the program, runs a while loop until the user exits the program
+     */
     public static void main(String[] args)
     {
         int choice = 0;
