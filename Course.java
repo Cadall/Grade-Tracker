@@ -5,7 +5,7 @@ public class Course {
     
     /**
      * Constructor with no perameters, sets values to Unknown
-     * -1 in grade shows up as "Uknown" when printed
+     * -1 in grade shows up as "Unknown" when printed
      */
     public Course(){
         grade = -1;
